@@ -1,0 +1,28 @@
+# MATLAB autosave and temporary files
+*.asv
+*.autosave
+*.m~
+*.tmp
+
+# MATLAB generated files
+*.mex*
+*.slxc
+*.sldd
+*.slxc
+codegen/
+slprj/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Course-provided dataset
+data/
+*.mat
+
+# Generated intermediate files
+results/noise_model.mat
