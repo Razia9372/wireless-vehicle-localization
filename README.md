@@ -147,3 +147,8 @@ The implementation includes checks for:
 Developed as part of the **Localization, Navigation and Smart Mobility** course at **Politecnico di Milano**.
 
 See [`docs/LNSM_Project_Presentation.pdf`](docs/LNSM_Project_Presentation.pdf) for the project presentation.
+## Authors
+
+Developed as a group project for the Localization, Navigation and Smart Mobility course at Politecnico di Milano.
+
+**Team:** Razia Jafari, Yaseen Salam Abdulmahdi Abdulmahdi, Ermir Balliu, Armin Mardoukhi
